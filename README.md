@@ -6,7 +6,7 @@ I enjoy building game systems (combat, inventory, progression) and turning ideas
 ### 🛠️ Tools & Skills
 **Engines:** Unity  
 **Languages:** C#  
-**Other:** Git, Visual Studio
+**Other:** Git (GitHub Desktop), Visual Studio
 
 ### 🎮 Featured Projects
 - **[Find the Enigma](https://github.com/fruthbtw/findTheEnigma)**: Console RPG in C# with grid exploration, turn-based combat, inventory and a save system.
