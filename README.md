@@ -6,6 +6,7 @@ I enjoy building game systems (combat, inventory, progression) and turning ideas
 ### 🛠️ Tools & Skills
 **Engines:** Unity  
 **Languages:** C#  
+**Design:** Figma (game UI & HUD)  
 **Other:** Git (GitHub Desktop), Visual Studio
 
 ### 🎮 Featured Projects
