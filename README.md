@@ -12,4 +12,4 @@ I enjoy building game systems (combat, inventory, progression) and turning ideas
 - **[Find the Enigma](https://github.com/fruthbtw/findTheEnigma)**: Console RPG in C# with grid exploration, turn-based combat, inventory and a save system.
 
 ### 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/yunus-emre-uluda%C4%9F-472650254/)
+ - [LinkedIn](https://www.linkedin.com/in/yunusemreuludag-gamedev/) 
