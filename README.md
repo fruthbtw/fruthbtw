@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Yunus Emre Uludağ 👋
 
-<!--
-**fruthbtw/fruthbtw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Game Design graduate, focused on game design and gameplay programming.
+I enjoy building game systems (combat, inventory, progression) and turning ideas into playable prototypes.
 
-Here are some ideas to get you started:
+### 🛠️ Tools & Skills
+**Engines:** Unity  
+**Languages:** C#  
+**Other:** Git, Visual Studio, JetBrains Rider
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Featured Projects
+- **[Find the Enigma](https://github.com/fruthbtw/findTheEnigma)**: Console RPG in C# with grid exploration, turn-based combat, inventory and a save system.
+
+### 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/yunus-emre-uluda%C4%9F-472650254/)
